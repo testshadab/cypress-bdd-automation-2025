@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Cypress test artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+cypress/cucumberReports/
+cypress/reports/
+
+
+# OS & Editor-specific files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs & debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Report files
+cypress/reports/cucumber-htmlreport.html
